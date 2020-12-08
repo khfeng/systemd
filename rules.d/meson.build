@@ -1,6 +1,7 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 
 rules = files('''
+        60-aspm.rules
         60-autosuspend.rules
         60-block.rules
         60-cdrom_id.rules
